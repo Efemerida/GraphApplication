@@ -1,1 +1,1 @@
-# drawgraphProgram — копия
+# Very original C# graph application 
